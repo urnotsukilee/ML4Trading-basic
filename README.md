@@ -1,2 +1,3 @@
-# RL4Trading
-This is a course project focus on building trade bot using Reinforcement learning.
+# ML4Trading
+This is a course codes focus on Machine Learning for trading.
+
